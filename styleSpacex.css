@@ -17,7 +17,10 @@ h3{
     text-shadow: 4px 4px 8px #585858;
     text-align: center;
 }
-p, h4, ul, li, h4, table{
+p{
+color: #ffffff;
+}
+h4, ul, li, h4, table{
     color: #ffffff;
 }
 label{
@@ -86,9 +89,24 @@ a:link, a:visited {
     box-sizing: border-box;
   }
  footer{
-    
     background-color: #535353;
     text-align: center;
-    padding: 1px;
   }
+  .falcon9 {
+    float: left;
+  }
+  .box1::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .falconHeavy {
+    float: left;
+  }
+  .box2::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ 
   
