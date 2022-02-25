@@ -1,0 +1,94 @@
+header{
+    background-color: #535353;
+    box-shadow: #b9b9b9 2px 2px 5px;
+    padding: 30px 0;
+    font-family: "Audiowide", sans-serif;
+}
+
+body{
+    background-color: black;
+}
+section{
+    background-color: black;
+    
+}
+h3{
+    color: white;
+    text-shadow: 4px 4px 8px #585858;
+    text-align: center;
+}
+p, h4, ul, li, h4, table{
+    color: #ffffff;
+}
+label{
+    color: #ffffff;
+}
+a:link, a:visited {
+    background-color: #535353;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+  }
+  article{
+      text-align: center;
+    background-color: #000000;
+  }
+ 
+  select {
+    width: 10%;
+    padding: 12px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: #a1a1a1;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  input[type=text], select {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=email], select {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=search], select {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+ footer{
+    
+    background-color: #535353;
+    text-align: center;
+    padding: 1px;
+  }
+  
